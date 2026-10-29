@@ -1,6 +1,6 @@
 # Stationwagon releases
 
-Downloads for [Stationwagon](https://github.com/vincentrathbone-web/stationwagon), an online radio station you run on ordinary web hosting.
+Downloads for Stationwagon, an online radio station you run on ordinary web hosting.
 
 The newest files are always under [Releases → Latest](https://github.com/vincentrathbone-web/stationwagon-releases/releases/latest):
 
